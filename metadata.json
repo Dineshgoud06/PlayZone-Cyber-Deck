@@ -1,0 +1,6 @@
+{
+  "name": "PlayZone Cyber Deck",
+  "description": "Futuristic cloud gaming and esports portal with live arena battles, instant game library, global leaderboards, and gamer profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
